@@ -6,7 +6,7 @@ This app is seeking users who wish to start or maintain an active lifestyle whil
 ### Research Methods:
 Through conducting an interview with a recent college graduate who has a busy and active lifestyle, I gathered more information on what individuals look for in an activity application. 
 
-### Contextual Inquiry Guide (Script)
+### Contextual Inquiry Guide (Script):
 **(Introduction)** 
 Today we are here to ask you a few questions to gather information on what people with busy and active lifestyles would look for in an activity/exercise application. Through understanding what kinds of activity/health applications you currently use, we will discuss what you like/dislike  about them. 
 
@@ -36,3 +36,12 @@ What applications have you used to help motivate your health and fitness?
 When did you start using it and how did you find out about it?
 In your opinion, what is the most useful source of information for motivating health and fitness? 
 
+**(User's Own Searches)**
+You mentioned how you normally search for information to motivate your health and fitness, can you go through the steps you would take in order to do this search?
+What made you think about this search as being the way to gather this information?
+How do you decide on what keywords to use when searching?
+How much time do you usually spend on searching for information like this?
+Are you satisfied with the outcome of this search? 
+How do you decide if you found what you are looking for?
+Do you ever save your search results? 
+Have you ever had difficulty re-finding information again?
