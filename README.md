@@ -7,7 +7,7 @@ This app is seeking users who wish to start or maintain an active lifestyle whil
 Through conducting an interview with a recent college graduate who has a busy and active lifestyle, I gathered more information on what individuals look for in an activity application. 
 
 ### Contextual Inquiry Guide (Script)
-(Introduction)
+**(Introduction)** 
 Today we are here to ask you a few questions to gather information on what people with busy and active lifestyles would look for in an activity/exercise application. Through understanding what kinds of activity/health applications you currently use, we will discuss what you like/dislike  about them. 
 
 Just as a reminder, we are not evaluating you in any way, but we are learning from you about how you look at information online and what works and doesn’t work for you. With this, we hope we can make our product better. There are no right or wrong answers to any of the questions I will be asking in this study — we are simply interested in understanding how you do things online. We will conduct this study mostly as a discussion — I will ask you to show me how you do things using your phone and ask you questions to better understand what you do.
@@ -16,18 +16,18 @@ Here’s how the session is going to be scheduled. I will ask you a few general 
 
 We will record a short video of this interview so that I can go back and review things later to make sure we understand things correctly. We will not use your name in connection with the recording or the results. The videotapes will only be used internally and never shared anywhere with anyone.
 
-(Basic Questions)
+**(Basic Questions)**
 What kind of phone do you use?
 What internet browser do you use?
 
-(Background Questions)
+**(Background Questions)**
 For this recording could you please tell us your name and a little bit about yourself. 
 
 What do you usually use your phone for? 
 What applications do you use regularly? 
 How much time a day do you use your phone?
 
-(Research Questions)
+**(Research Questions)**
 How often do you use activity tracker applications?
 How well do they usually work when tracking outdoor activities?
 Do these apps usually help you stay on track with working out? 
