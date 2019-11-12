@@ -49,7 +49,7 @@ Have you ever had difficulty re-finding information again?
 ### Interview Materials:
 The interview audio file can be found [here](https://drive.google.com/file/d/1Ud3zH-2-h8ENXh9F9N7faFxSHYkJvHsg/view?usp=sharing)
 
-**Interview Transcript**
+### Interview Transcript:
 
 S: Okay, so today we are here to ask you a few questions to gather information on what people with busy and active lifestyles would look for in an activity slash exercise application. And through understanding what kinds of active health activity slash health applications you currently use, we will discuss what you like or dislike about them. And just as a reminder, we are not evaluating you in any way. But we are learning from you about how you look at information online and what works and doesn't work for you. With this, we hope we can make our product better and there are no right or wrong answers to any of the questions I will be asking you in this study. We are simply interested in understanding how you do things online and we will conduct this study mostly as a discussion. So here's how the session is going to be. I will ask you a few general questions about how you search for health advice online. And then we will go through the search, search tasks and While you are working on the tasks, I'd like you to think out loud and give commentary of what is going on in your mind. And we will record this interview so that I can go back and review things later to make sure that we understand things correctly. And we will not use your name in connection with this recording or the results and the video will only be used internally and never shared anywhere with anyone. Is that okay with you?
 
