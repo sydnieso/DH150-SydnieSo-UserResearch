@@ -118,3 +118,6 @@ R: User interface is a really important part of it, I guess. Just being able to 
 S: Okay. I think that is sufficient. Thank you for your time!
 
 R: Thank you
+
+### Reflection
+Through this user research, I found that some of my questions may have been too broad. The answers from my interviewee were helpful for allowing me to understand what users are looking for in a general health application, but I only had one broad question about tying it to the idea of a health application and a charity fundraiser application. If I had created more questions after elaborating on the idea of the product, it may have been more beneficial to furhter understand his perspective. 
